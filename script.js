@@ -1,3 +1,7 @@
-// Subtract One Number from Another with JavaScript
+let a = 48;
+let b = 108;
+let c = 33;
 
-const difference = 45 - 33;
+a /= 12;
+b /= 4;
+c /= 11;
