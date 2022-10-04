@@ -1,7 +1,3 @@
-let a = 48;
-let b = 108;
-let c = 33;
+const lastName = "Lovelace";
 
-a /= 12;
-b /= 4;
-c /= 11;
+const lastLetterOfLastName = lastName[lastName.length - 1];
